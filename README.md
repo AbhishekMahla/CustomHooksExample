@@ -1,2 +1,1 @@
-This project has some Examples of Custom Hooks like useFeatch and useLocalStorage.
-Also, have Some other Hook examples like useRef, useCallBack and useMemo etc.
+This is a Github Finder project using Rect. In this I use APIs Provided By Github to fetch users, data of single user, All repos of users and search users on Github.Also, make an Elegant frontend to show all the details.
